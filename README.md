@@ -3,8 +3,7 @@ Team name:
 The Pittsburgh Examiners
 
 Team members and their email addresses:
-Eldar Cakolli - ELC320@pitt.edu
-Tyler Patterson - TGP20@pitt.edu
+Eldar Cakolli - ELC320@pitt.edu and Tyler Patterson - TGP20@pitt.edu
 
 Description and links to the datasets used:
 2024-2026 Monthly Criminal Activity Dataset
