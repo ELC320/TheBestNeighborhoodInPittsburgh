@@ -55,5 +55,11 @@ Data Set URL: (for crash data) - https://data.wprdc.org/datastore/dump/2c13021f-
 The third dataset our group picked revolves around car crash data in Allegheny county. In this data set, we are provided with columns relating to the crash record number, district number (district location), crash county (county location) and county municipality code. Additionally, we are provided with a separate data set that identifies the locations of specific municipality codes. For example, if the cumulative crash dataset states a crash happened in municipality code “02440,” then we would go to the identified separate data set of codes and see the municipality of the code, “02440,” is Jefferson Hills Borough. The availability of these datasets will allow us to identify car crash data and correspond them with specific locations. Adding onto this, we will analyze these car crash trends in relation to specific areas in Pittsburgh. This dataset will allow us to calculate which neighborhoods in Pittsburgh have the safest roads/driving. Locations that frequently have car crashes will be removed from the “best” contention due to its unsafe road conditions. Neighborhoods that appear the lowest will be acknowledged for its safest road conditions which would gain validation towards the title of best neighborhood in Pittsburgh. 
 
 ---
+Neighborhood Mapping Data
+
+Data Set URL: https://data.wprdc.org/dataset/neighborhoods2/resource/4af8e160-57e9-4ebf-a501-76ca1b42fc99
+
+Used to map crash data latitudes and longitudes to actual neighborhoods.
+---
 
 Our repository determines the "best" neighborhood in Pittsburgh by analyzing data relating to three specific metrics; Criminal Activity (Safety), Car Crashes (Road Safety), and Air Quality 
