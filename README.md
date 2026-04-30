@@ -1,7 +1,7 @@
 # The Best Neighborhood In Pittsburgh
 Final Group Number:
 12
-
+---
 Team name: 
 The Pittsburgh Examiners
 
