@@ -9,6 +9,7 @@ Team members and their email addresses:
 Eldar Cakolli - ELC320@pitt.edu and Tyler Patterson - TGP20@pitt.edu
 
 Personal notebook by Eldar: "CriminalActivitySubMetric-2.ipynb" & "TrafficSafetySubMetric"
+
 Personal Notebook by Tyler: "air_quality_submetric.ipynb"
 
 Description and links to the datasets used:
