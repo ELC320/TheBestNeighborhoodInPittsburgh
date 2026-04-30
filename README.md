@@ -23,10 +23,10 @@ Personal Notebook by Tyler: "air_quality_submetric.ipynb"
 2024-2026 Monthly Criminal Activity Dataset
 
 Page Link: monthly-criminal-activity-dashboard 
- 
-Specific Set Page Link: https://data.wprdc.org/dataset/allegheny-county-crash-data/resource/2c13021f-74a9-4289-a1e5-fe0472c89881
 
-Data Set URL: https://data.wprdc.org/datastore/dump/2c13021f-74a9-4289-a1e5-fe0472c89881
+Specific Set Page Link: bd41992a-987a-4cca-8798-fbe1cd946b07 
+
+Data set URL: https://data.wprdc.org/dataset/65e69ee3-93b2-4f7a-b9cb-8ce977f15d9a/resource/bd41992a-987a-4cca-8798-fbe1cd946b07/download/incidents_2024_thru_mar2026.xlsx
 
 The first data set our group decided upon establishes monthly criminal activity ranging from 2024 to 2026. In this data set, we are provided with columns relating to the exact report number, date, time, violation (code, category, type), location (coordinates, zone, etc) and neighborhood for criminal activity. The simplicity of this dataset and its tabs allow us to easily look up violations and correspond them with their neighborhood. We will utilize this data set in order to closely analyze monthly criminal data trends in the neighborhoods of Pittsburgh. Backtracking off this, this dataset will allow us to determine which neighborhood in Pittsburgh experiences the most criminal activity. Locations that are listed the most frequently will be removed from contention for best neighborhood in Pittsburgh due to its unsafe environment. Neighborhoods that appear the absolute lowest will be recognized as the safest attributing towards the title of best neighborhood in Pittsburgh. 
 
